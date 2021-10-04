@@ -1,0 +1,22 @@
+STEP 1: DOWNLOAD ANDROID STUDIO AND OPEN THE PROJECT FOLDER "LoginRegister"
+
+STEP 2: DOWNLOAD XAMPP: https://www.apachefriends.org/download.html
+
+STEP 3: CREATE A FOLDER CALLED "LoginRegister" inside 'C:\xampp\htdocs\'
+
+STEP 4: COPY EVERTHING FROM 'php files' FOLDER INTO 'C:\xampp\htdocs\LoginRegister'
+
+STEP 5: OPEN XAMPP AND START 'Apache' AND 'MySQL'
+
+APP SHOULD LET YOU LOG IN NOW
+
+
+
+
+TO CHECK DATABASE INFO, OPEN XAMPP AND CLICK 'Admin' AND THEN CLICK ON 'loginregister' ON THE DROPDOWN
+
+OR
+
+DOWNLOAD POPSQL TO WRITE YOUR OWN QUERIES
+
+TUTORIAL FOR MYSQL: https://www.youtube.com/watch?v=HXV3zeQKqGY&t=14154s&ab_channel=freeCodeCamp.org

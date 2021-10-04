@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Already have an account? Login</string>
+    <string name="signuphere">Create a new account? Sign Up</string>
+    <string name="view_available_lockers">View Available Lockers</string>
+    <string name="view_currently_rented_lockers">View Currently Rented Lockers</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="locker_id">Locker ID</string>
+    <string name="check">Check</string>
+    <string name="check_locker_availability">Check Locker\nAvailability</string>
+    <string name="rent_confirmation">Rent Confirmation</string>
+    <string name="rent">Rent</string>
+    <string name="return_to_locker_selection">Return to Locker Selection</string>
+    <string name="emptylocker_id">emptyLocker_id</string>
+    <string name="empty_username">empty_username</string>
+    <string name="drop_locker">Drop Locker</string>
+    <string name="drop">Drop</string>
+    <string name="return_to_selection">Return to Selection</string>
+</resources>
